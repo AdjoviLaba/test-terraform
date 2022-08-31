@@ -1,0 +1,6 @@
+region          = "us-west-1"
+ami             = "ami-018d291ca9ffc002f"
+key_pair        = "test"
+instance_type   = "t2.nano"
+name            = "dev-test"
+tag             = "terraform-test" 
